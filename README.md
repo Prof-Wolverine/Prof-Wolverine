@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prof-Wolverine
-- 👀 I’m interested in ...
+- 👀 I’m studding [Alura](https://www.alura.com.br)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -10,4 +10,5 @@
 Prof-Wolverine/Prof-Wolverine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-{(https://tenor.com/pt-BR/view/deadpool-and-wolverine-wolverine-deadpool-hugh-jackman-marvel-gif-14982205580292321037)}
+
+![](https://media1.tenor.com/m/z-t8mJ0y7w0AAAAd/deadpool-and-wolverine-wolverine.gif)
